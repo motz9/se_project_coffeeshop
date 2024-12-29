@@ -4,6 +4,8 @@
 
 .card__title {
   margin: 0 0 32px;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 .card__list {
@@ -20,6 +22,7 @@
 .card__list-item {
   display: flex;
   gap: 10px;
+  font-weight: normal;
 }
 
 .card__list-divider {
