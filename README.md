@@ -14,3 +14,5 @@ Project features
 Plan on improving the project
 
 I would like to add an online ordering option to the webpage. I think that it would make things easier for the customer.
+
+https://motz9.github.io/se_project_coffeeshop/
